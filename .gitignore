@@ -1,0 +1,26 @@
+# OS X
+.DS_Store
+
+# Node
+node_modules
+node_modules
+npm-debug.log*
+ckeditor5-inline/build/translations/
+ckeditor5-inline/node_modules/
+.env
+
+# Build
+build/*
+dist/*
+
+# Cache
+.cache-loader
+
+# Stats
+dist/stats/*
+
+# Coverage
+coverage
+
+# Test Report
+test-report.html
